@@ -16,4 +16,4 @@ Testando a diferença entre var, let e const com aprendizado obtido no vídeo do
 - Demonstra como o escopo das variáveis declaradas com **var** funcionam.
 
 # Exemplo 2
-- Demonstra o comportamento do escopo de uma Immideately invoked function expression (IIFE) que é uma função que será chamada assim que for declarada.
+- Demonstra um exemplo de IIFE e o que acontece quando uma variável não é declarada dentro de uma função.
