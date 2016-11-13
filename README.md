@@ -17,3 +17,6 @@ Testando a diferença entre var, let e const com aprendizado obtido no vídeo do
 
 # Exemplo 2
 - Demonstra um exemplo de IIFE e o que acontece quando uma variável não é declarada dentro de uma função.
+
+# Exemplo 3
+- Usando "use strict" para impedir que variáveis globais sejam criadas acidentalmente.
