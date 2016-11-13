@@ -1,4 +1,4 @@
-# Diferenças entre declarar uma variável com var, let e const no JavaScript EC6
+# Diferenças entre declarar uma variável com var, let e const no JavaScript EcmaScript6
 
 Testando a diferença entre var, let e const com aprendizado obtido no vídeo do mpj: https://www.youtube.com/watch?v=sjyJBL5fkp8
 
