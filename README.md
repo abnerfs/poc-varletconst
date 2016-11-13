@@ -1,7 +1,8 @@
 # Diferenças entre declarar uma variável com var, let e const no JavaScript EC6
 
 Testando a diferença entre var, let e const com aprendizado obtido no vídeo do mpj: https://www.youtube.com/watch?v=sjyJBL5fkp8
-Exemplos com comentários explicando qual o conceito sendo testado;
+
+-Exemplos com comentários explicando qual o conceito sendo testado.
 
 # Testando os exemplos
 - Instale o NodeJS na sua máquina: https://nodejs.org/en/
